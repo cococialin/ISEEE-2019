@@ -4,4 +4,6 @@ A paper accepted and presented at the THE 6TH INTERNATIONAL SYMPOSIUM ON ELECTRI
 
 The paper ended up not been indexed by IEEE Xeplorer do to an e-mail mismatch. :(
 
+The link to the conference can be found here: <a href="https://www.iseee.ugal.ro/2019/"> https://www.iseee.ugal.ro/2019/ </a>
+
 If you find it usefull please cite it here.
